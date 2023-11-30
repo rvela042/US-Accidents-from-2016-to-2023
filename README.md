@@ -10,6 +10,10 @@ The purpose of this analysis is to uncover patterns and insights that can help i
 
 1. What is the distribution of accident severity across different states?
 
+   The stacked bar chart created shows the distribution of accident severity across different states. This is a directly proportional relationship. You can say that as the taller a bar is, a higher number of accidents occur in the shown states. The colors represent different levels of severity.
+
+   <img src = "https://github.com/rvela042/US-Accidents-from-2016-to-2023/blob/main/All%20Question%20Plots/Q1Chart.png"/>
+
 2. How do weather conditions correlate with the number of accidents?
 
 3. At what times of day do most severe accidents occur?

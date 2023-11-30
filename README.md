@@ -6,6 +6,10 @@ This repository contains a dataset and analysis of road traffic accidents. The d
 
 The purpose of this analysis is to uncover patterns and insights that can help in improving road safety and traffic management. By understanding what factors lead to road accidents, we can create better safety measures and reduce accident rates.
 
+## Reference
+
+The following displayed data was obtained from Kaggle: https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents/
+
 ## Questions for Analysis
 
 1. What is the distribution of accident severity across different states?

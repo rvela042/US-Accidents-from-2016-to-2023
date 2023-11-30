@@ -34,6 +34,10 @@ The purpose of this analysis is to uncover patterns and insights that can help i
 
 5. How does the accident rate vary throughout the week?
 
+   This chart shows the variation in accident rates across different days of the week (Mon-Sun). Here we can see which days have a higher incidence of accidents compared to others.
+
+   <img src = "https://github.com/rvela042/US-Accidents-from-2016-to-2023/blob/main/All%20Question%20Plots/Q5chart.png" />
+
 6. Is there a significant difference in accident rates between urban and rural areas?
 
 7. What impact do traffic control features have on accident severity?

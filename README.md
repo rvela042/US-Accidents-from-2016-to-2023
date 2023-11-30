@@ -28,6 +28,10 @@ The purpose of this analysis is to uncover patterns and insights that can help i
 
 4. What are the common factors among the most severe accidents?
 
+   This bar chart ranks the most common factors associated with severe accidents, and shows us which factors are most prevalent.
+
+   <img src = "https://github.com/rvela042/US-Accidents-from-2016-to-2023/blob/main/All%20Question%20Plots/Q4chart.png" />
+
 5. How does the accident rate vary throughout the week?
 
 6. Is there a significant difference in accident rates between urban and rural areas?

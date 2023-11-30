@@ -21,6 +21,11 @@ The purpose of this analysis is to uncover patterns and insights that can help i
    <img src = "https://github.com/rvela042/US-Accidents-from-2016-to-2023/blob/main/All%20Question%20Plots/Q2chart.png" />
 
 3. At what times of day do most severe accidents occur?
+
+   The chart indicates that the frequency of severe accidents varies by the hour of the day, with peaks potentially during morning and evening rush hours.
+
+   <img src = "https://github.com/rvela042/US-Accidents-from-2016-to-2023/blob/main/All%20Question%20Plots/Q3chart.png" />
+
 4. What are the common factors among the most severe accidents?
 
 5. How does the accident rate vary throughout the week?

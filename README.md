@@ -40,6 +40,10 @@ The purpose of this analysis is to uncover patterns and insights that can help i
 
 6. Is there a significant difference in accident rates between urban and rural areas?
 
+   This bar chart gives us a comparison between the number of accidents in urban versus rural settings, which helps in understanding where accidents occur more frequently. In this case, we see them happen in urban areas mostly.
+
+   <img src = "https://github.com/rvela042/US-Accidents-from-2016-to-2023/blob/main/All%20Question%20Plots/Q6chart.png" />
+
 7. What impact do traffic control features have on accident severity?
 8. Does the length of road closure due to an accident correlate with its severity?
 

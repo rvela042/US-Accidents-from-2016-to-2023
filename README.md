@@ -45,6 +45,11 @@ The purpose of this analysis is to uncover patterns and insights that can help i
    <img src = "https://github.com/rvela042/US-Accidents-from-2016-to-2023/blob/main/All%20Question%20Plots/Q6chart.png" />
 
 7. What impact do traffic control features have on accident severity?
+
+   Three charts were created to compare the number of accidents in the presence or absence of traffic signals, stop signs, and junctions. This helps offer insight into the impact of traffic control measures on accident rates. (Only one is displayed, but refer to `Main.ipynb` for more info)
+
+   <img src = "https://github.com/rvela042/US-Accidents-from-2016-to-2023/blob/main/All%20Question%20Plots/Q7chart.png" />
+
 8. Does the length of road closure due to an accident correlate with its severity?
 
 9. Are there any seasonal trends in accident occurrences?

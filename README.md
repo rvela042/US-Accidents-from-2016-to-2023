@@ -58,4 +58,8 @@ The purpose of this analysis is to uncover patterns and insights that can help i
 
 9. Are there any seasonal trends in accident occurrences?
 
+   This line chart shows the number of accidents per month, and shows us that there are seasonal trends in accident occurrences.
+
+   <img src = "https://github.com/rvela042/US-Accidents-from-2016-to-2023/blob/main/All%20Question%20Plots/Q9chart.png" />
+
 10. How effective are traffic calming measures in preventing accidents?

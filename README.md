@@ -63,3 +63,7 @@ The purpose of this analysis is to uncover patterns and insights that can help i
    <img src = "https://github.com/rvela042/US-Accidents-from-2016-to-2023/blob/main/All%20Question%20Plots/Q9chart.png" />
 
 10. How effective are traffic calming measures in preventing accidents?
+
+    The majority of accidents occur at locations without traffic calming measures such as traffic signals, stop signs, and junctions. This means/suggests that such features contribute to reducing accident frequency to a certain extent.
+
+    <img src = "https://github.com/rvela042/US-Accidents-from-2016-to-2023/blob/main/All%20Question%20Plots/Q10chart.png" />

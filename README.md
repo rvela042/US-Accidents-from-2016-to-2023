@@ -52,6 +52,10 @@ The purpose of this analysis is to uncover patterns and insights that can help i
 
 8. Does the length of road closure due to an accident correlate with its severity?
 
+   The scatter plot created suggests a potential relationship between the duration a road is closed due to an accident and the severity of the accident.
+
+   <img src = "https://github.com/rvela042/US-Accidents-from-2016-to-2023/blob/main/All%20Question%20Plots/Q8chart.png" />
+
 9. Are there any seasonal trends in accident occurrences?
 
 10. How effective are traffic calming measures in preventing accidents?

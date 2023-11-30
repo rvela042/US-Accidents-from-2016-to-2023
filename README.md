@@ -16,6 +16,10 @@ The purpose of this analysis is to uncover patterns and insights that can help i
 
 2. How do weather conditions correlate with the number of accidents?
 
+   The line graph shows the relationship between the average monthly temperature and the total number of accidents per month. There seems to be an indirect proportion via the graph, as the lower the temperature, the more accidents. However, there are different line trends. We see that if the line trends upward as the temperature increases, this might suggest that higher temperatures correlate with more accidents. On the other hand, if the line trends downward, it could indicate that fewer accidents occur as temperatures rise. If the line is relatively flat, this would mean there is no strong linear correlation between temperature and the number of accidents.
+
+   <img src = "https://github.com/rvela042/US-Accidents-from-2016-to-2023/blob/main/All%20Question%20Plots/Q2chart.png" />
+
 3. At what times of day do most severe accidents occur?
 4. What are the common factors among the most severe accidents?
 
